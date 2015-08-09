@@ -5,9 +5,13 @@ It's [crazy small](https://twitter.com/nrknthuk/status/630498001937526784) and c
 
 It doesn't support any logic whatsoever.
 
-```javascript
-var nano = require( 'nano-template' );
+`npm install nano-template`
 
+or:
+
+`bower install nano-template`
+
+```javascript
 //our string template
 var style = 'position: relative; width: <%=size.width%>px; height: <%=size.height%>px; font: \'<%=font%>\'';
 
