@@ -1,7 +1,7 @@
 # nano-template
 ## A stupidly small function for creating a compiled template
 
-It's [crazy small](https://twitter.com/nrknthuk/status/630498001937526784) and crazy fast.
+It's [crazy small](https://twitter.com/nrknthuk/status/630498001937526784) and [crazy fast](http://jsperf.com/nano-template).
 
 It doesn't support any logic whatsoever.
 

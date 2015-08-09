@@ -1,7 +1,7 @@
 {
   "name": "nano-template",
   "main": "nano.js",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "authors": [
     "Nik Coughlin <nrkn.com@gmail.com>"
   ],
