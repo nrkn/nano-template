@@ -1,0 +1,28 @@
+{
+  "name": "nano-template",
+  "main": "nano.js",
+  "version": "0.1.0",
+  "authors": [
+    "Nik Coughlin <nrkn.com@gmail.com>"
+  ],
+  "description": "A stupidly small function for creating a compiled template",
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "template",
+    "templating",
+    "tiny",
+    "logicless"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/nrkn/nano-template",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
